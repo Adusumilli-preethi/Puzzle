@@ -1,3 +1,7 @@
+body{
+    text-align: center;
+}
+
 .puzzle-container {
     display: grid;
     grid-template-columns: repeat(4, 100px);
